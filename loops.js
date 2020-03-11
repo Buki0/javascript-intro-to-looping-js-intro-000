@@ -29,8 +29,8 @@ function whileLoop(number)
 
 function doWhileLoop(num)
 {
-  if(num>8) {
-      num = 8;
+  if(num>9) {
+     num=9;
    }
   var i=0;
   function incrementVariable() {
